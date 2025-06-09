@@ -44,7 +44,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     public LootTable.Builder phosphorBlockDrops(Block drop, Item item, int count) {
         return dropsWithSilkTouch(
                 drop,
-                (LootPoolEntry.Builder<?>)this.applyExplosionDecay(
+                this.applyExplosionDecay(
                         drop,
                         ItemEntry.builder(item)
                                 .apply(SetCountLootFunction.builder(ConstantLootNumberProvider.create((float)count)))
@@ -55,7 +55,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     public LootTable.Builder phosphorOreDrops(Block drop, Item item) {
         return dropsWithSilkTouch(
                 drop,
-                (LootPoolEntry.Builder<?>)this.applyExplosionDecay(
+                this.applyExplosionDecay(
                         drop,
                         ItemEntry.builder(item)
                                 .apply(SetCountLootFunction.builder(UniformLootNumberProvider.create(2.0F, 4.0F)))

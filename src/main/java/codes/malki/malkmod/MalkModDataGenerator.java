@@ -1,7 +1,6 @@
 package codes.malki.malkmod;
 
 import codes.malki.malkmod.datagen.*;
-import codes.malki.malkmod.datagen.*;
 import codes.malki.malkmod.world.ModConfiguredFeatures;
 import codes.malki.malkmod.world.ModPlacedFeatures;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;

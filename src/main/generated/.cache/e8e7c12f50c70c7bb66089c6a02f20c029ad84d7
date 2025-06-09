@@ -1,4 +1,4 @@
-// 1.20.1	2025-06-09T18:15:52.846473503	MalkMod/Tags for minecraft:block
+// 1.20.1	2025-06-09T18:33:12.101326098	MalkMod/Tags for minecraft:block
 156ec6da1f9ab2ba3cf1bd4a32229e1a5020b3fc data/minecraft/tags/blocks/logs.json
 156ec6da1f9ab2ba3cf1bd4a32229e1a5020b3fc data/minecraft/tags/blocks/logs_that_burn.json
 d9db2a4b7bec10f103bb662728c88a70ad5da33d data/minecraft/tags/blocks/mineable/pickaxe.json
@@ -12,8 +12,8 @@ f32720045f14701a04793c43daeb23e7ac50c4a9 data/minecraft/tags/blocks/wooden_stair
 5047cf7bb8a9dac00dcf92c2855cfbec3c9584d5 data/minecraft/tags/blocks/trapdoors.json
 783f74935caab269ee6e0c0f4b229a72fba7651c data/minecraft/tags/blocks/buttons.json
 7d4bf8b621192ca1f040461a7d42318a707a554a data/minecraft/tags/blocks/doors.json
-064dbba4c8df7803e9d44556f8431282edad91e2 data/minecraft/tags/blocks/pressure_plates.json
 783f74935caab269ee6e0c0f4b229a72fba7651c data/minecraft/tags/blocks/wooden_buttons.json
+064dbba4c8df7803e9d44556f8431282edad91e2 data/minecraft/tags/blocks/pressure_plates.json
 064dbba4c8df7803e9d44556f8431282edad91e2 data/minecraft/tags/blocks/wooden_pressure_plates.json
 f32720045f14701a04793c43daeb23e7ac50c4a9 data/minecraft/tags/blocks/stairs.json
 5047cf7bb8a9dac00dcf92c2855cfbec3c9584d5 data/minecraft/tags/blocks/wooden_trapdoors.json

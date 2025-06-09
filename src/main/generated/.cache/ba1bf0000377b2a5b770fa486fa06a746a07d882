@@ -1,4 +1,4 @@
-// 1.20.1	2025-06-09T18:15:52.848578306	MalkMod/Model Definitions
+// 1.20.1	2025-06-09T18:33:12.104348031	MalkMod/Model Definitions
 8d62be622861d5c7a08aed27af7d85eeaf132932 assets/malkmod/models/block/glowwood_door_top_left.json
 b65a8caded8cc5089504c8beab17c67ca407c8c1 assets/malkmod/blockstates/yellow_phosphor_block.json
 98623e24ab876caff570ae64f991ce43f1084f76 assets/malkmod/models/item/yellow_phosphor_ore.json
@@ -55,8 +55,8 @@ d08f87a7e5a7968f231e1adb8ceba4821182ebfe assets/malkmod/blockstates/glowwood_pre
 e8c77fd67cca5bd0469ffaf6cac7b858a75759a9 assets/malkmod/models/item/the_first_glass_beach_album.json
 6bc3c4956267cd950fb7cb646a055a4d0105a5c6 assets/malkmod/models/block/glowwood_fence_side.json
 d98eb2ad8fd922a621f4dd28db390ed5865567a8 assets/malkmod/models/item/phosphor_feather.json
-af826aaca47fb40ff5ae124a2d745fe3a41c7906 assets/malkmod/models/block/glowwood_button_pressed.json
 a96c24f9caedb52e8a2c270e43eb37a3266cf2e5 assets/malkmod/models/item/glowwood_pressure_plate.json
+af826aaca47fb40ff5ae124a2d745fe3a41c7906 assets/malkmod/models/block/glowwood_button_pressed.json
 9b533760a19cb03c34b7c2c510737df934f20b87 assets/malkmod/models/block/glowwood_door_bottom_right_open.json
 e0a368ab3e153be06ee5f9f8b459eeef1331eadc assets/malkmod/models/block/glowwood_trapdoor_open.json
 1682d662a3fec30e9810474620748db93aa6dfa9 assets/malkmod/models/block/glowwood_fence_gate_wall.json

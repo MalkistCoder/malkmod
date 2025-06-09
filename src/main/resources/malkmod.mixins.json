@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "dev.malkist.malkmod.mixin",
+	"package": "codes.malki.malkmod.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+      "ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

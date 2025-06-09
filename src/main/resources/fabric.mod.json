@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          	"dev.malkist.malkmod.MalkMod"
+			"codes.malki.malkmod.MalkMod"
 		],
 		"client": [
-			"dev.malkist.malkmod.MalkModClient"
+			"codes.malki.malkmod.MalkModClient"
 		],
 		"fabric-datagen": [
-			"dev.malkist.malkmod.MalkModDataGenerator"
+			"codes.malki.malkmod.MalkModDataGenerator"
 		]
 	},
 	"mixins": [

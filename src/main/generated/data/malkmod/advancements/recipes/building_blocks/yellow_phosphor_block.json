@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "malkmod:yellow_phosphor_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_yellow_phosphor": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "malkmod:yellow_phosphor"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_yellow_phosphor",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "malkmod:yellow_phosphor_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

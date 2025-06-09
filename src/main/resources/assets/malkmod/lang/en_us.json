@@ -1,0 +1,28 @@
+{
+  "item.malkmod.ruby": "Ruby",
+  "item.malkmod.the_first_glass_beach_album": "the first glass beach album",
+  "item.malkmod.yellow_phosphor": "Yellow Phosphor Dust",
+  "item.malkmod.sun": "The Sun",
+  "item.malkmod.phosphor_amber": "Silver's Amber",
+  "item.malkmod.phosphor_feather": "Calamus's Feather",
+
+  "block.malkmod.ruby_block": "Block of Ruby",
+  "block.malkmod.yellow_phosphor_ore": "Nether Yellow Phosphor Ore",
+  "block.malkmod.yellow_phosphor_block": "Block of Yellow Phosphor",
+  "block.malkmod.copper_wire": "Copper Wire",
+  "block.malkmod.phosphor_die": "George's Die",
+
+  "block.malkmod.glowwood_log": "Glowwood Log",
+  "block.malkmod.glowwood_wood": "Glowwood Wood",
+  "block.malkmod.glowwood_planks": "Glowwood Planks",
+  "block.malkmod.glowwood_slab": "Glowwood Slab",
+  "block.malkmod.glowwood_stairs": "Glowwood Stairs",
+  "block.malkmod.glowwood_button": "Glowwood Button",
+  "block.malkmod.glowwood_pressure_plate": "Glowwood Pressure Plate",
+  "block.malkmod.glowwood_door": "Glowwood Door",
+  "block.malkmod.glowwood_trapdoor": "Glowwood Trapdoor",
+  "block.malkmod.glowwood_fence": "Glowwood Fence",
+  "block.malkmod.glowwood_fence_gate": "Glowwood Fence Gate",
+
+  "itemgroup.malkmod": "MalkMod Items"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "glowwood",
+  "ingredients": [
+    {
+      "item": "malkmod:glowwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "malkmod:glowwood_planks"
+  }
+}

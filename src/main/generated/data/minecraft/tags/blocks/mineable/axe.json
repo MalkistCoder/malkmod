@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "malkmod:glowwood_log",
+    "malkmod:glowwood_wood",
+    "malkmod:glowwood_planks",
+    "malkmod:glowwood_pressure_plate",
+    "malkmod:glowwood_button",
+    "malkmod:glowwood_fence",
+    "malkmod:glowwood_fence_gate",
+    "malkmod:glowwood_stairs",
+    "malkmod:glowwood_slab",
+    "malkmod:glowwood_door",
+    "malkmod:glowwood_trapdoor"
+  ]
+}

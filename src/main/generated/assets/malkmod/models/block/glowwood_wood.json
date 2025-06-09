@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "malkmod:block/glowwood_log",
+    "side": "malkmod:block/glowwood_log"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "item": "malkmod:yellow_phosphor"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "malkmod:glowwood_log"
+  }
+}

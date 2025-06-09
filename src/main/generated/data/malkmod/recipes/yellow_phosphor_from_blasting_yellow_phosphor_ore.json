@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "yellow_phosphor",
+  "ingredient": {
+    "item": "malkmod:yellow_phosphor_ore"
+  },
+  "result": "malkmod:yellow_phosphor"
+}

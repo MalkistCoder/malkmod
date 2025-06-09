@@ -1,0 +1,10 @@
+{
+  "match": {
+    "items": [
+      "malkmod:phosphor_amber",
+      "malkmod:phosphor_feather",
+      "malkmod:phosphor_die"
+    ]
+  },
+  "luminance": 7
+}

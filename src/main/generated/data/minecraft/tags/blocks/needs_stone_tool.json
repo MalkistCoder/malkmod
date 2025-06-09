@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "malkmod:ruby_block",
+    "malkmod:yellow_phosphor_ore",
+    "malkmod:yellow_phosphor_block"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "malkmod:yellow_phosphor_block"
+    },
+    "T": {
+      "tag": "minecraft:terracotta"
+    }
+  },
+  "pattern": [
+    "PTP"
+  ],
+  "result": {
+    "item": "malkmod:phosphor_die"
+  },
+  "show_notification": true
+}

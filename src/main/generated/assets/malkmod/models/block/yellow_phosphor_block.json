@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "malkmod:block/yellow_phosphor_block"
+  }
+}

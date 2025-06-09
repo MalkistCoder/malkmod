@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "malkmod:item/the_first_glass_beach_album"
+  }
+}

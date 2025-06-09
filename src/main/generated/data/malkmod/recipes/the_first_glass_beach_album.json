@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:music_discs"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "tag": "minecraft:smelts_to_glass"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " # ",
+    "GGG"
+  ],
+  "result": {
+    "item": "malkmod:the_first_glass_beach_album"
+  },
+  "show_notification": true
+}

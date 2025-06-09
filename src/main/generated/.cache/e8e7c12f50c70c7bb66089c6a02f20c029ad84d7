@@ -1,0 +1,25 @@
+// 1.20.1	2025-06-09T18:03:38.99248067	MalkMod/Tags for minecraft:block
+156ec6da1f9ab2ba3cf1bd4a32229e1a5020b3fc data/minecraft/tags/blocks/logs.json
+156ec6da1f9ab2ba3cf1bd4a32229e1a5020b3fc data/minecraft/tags/blocks/logs_that_burn.json
+d9db2a4b7bec10f103bb662728c88a70ad5da33d data/minecraft/tags/blocks/mineable/pickaxe.json
+d9db2a4b7bec10f103bb662728c88a70ad5da33d data/c/tags/blocks/ores.json
+222af81bb5899892e0d5dae16183473971871c82 data/minecraft/tags/blocks/needs_stone_tool.json
+cdbf28a6923f0eb8d9faf07f58f6db578d833125 data/minecraft/tags/blocks/wooden_slabs.json
+e499d8846ca201d49fe79313cbd164dc37e0ffcf data/minecraft/tags/blocks/mineable/hoe.json
+c2b29a241a0918f63975db6bdd059cd5b0616678 data/minecraft/tags/blocks/fence_gates.json
+f32720045f14701a04793c43daeb23e7ac50c4a9 data/minecraft/tags/blocks/wooden_stairs.json
+97db6d8db0972f540b3091554cd40891ede59892 data/minecraft/tags/blocks/wooden_fences.json
+5047cf7bb8a9dac00dcf92c2855cfbec3c9584d5 data/minecraft/tags/blocks/trapdoors.json
+783f74935caab269ee6e0c0f4b229a72fba7651c data/minecraft/tags/blocks/buttons.json
+7d4bf8b621192ca1f040461a7d42318a707a554a data/minecraft/tags/blocks/doors.json
+783f74935caab269ee6e0c0f4b229a72fba7651c data/minecraft/tags/blocks/wooden_buttons.json
+064dbba4c8df7803e9d44556f8431282edad91e2 data/minecraft/tags/blocks/pressure_plates.json
+064dbba4c8df7803e9d44556f8431282edad91e2 data/minecraft/tags/blocks/wooden_pressure_plates.json
+f32720045f14701a04793c43daeb23e7ac50c4a9 data/minecraft/tags/blocks/stairs.json
+5047cf7bb8a9dac00dcf92c2855cfbec3c9584d5 data/minecraft/tags/blocks/wooden_trapdoors.json
+7d4ad66f76bbb84990286ae2634908fde937a62e data/minecraft/tags/blocks/planks.json
+d9db2a4b7bec10f103bb662728c88a70ad5da33d data/c/tags/blocks/ores_in_ground/stone.json
+7d4bf8b621192ca1f040461a7d42318a707a554a data/minecraft/tags/blocks/wooden_doors.json
+1edd1e2d4ec075767d85a1eead7ba0c99fccc166 data/minecraft/tags/blocks/mineable/axe.json
+97db6d8db0972f540b3091554cd40891ede59892 data/minecraft/tags/blocks/fences.json
+cdbf28a6923f0eb8d9faf07f58f6db578d833125 data/minecraft/tags/blocks/slabs.json

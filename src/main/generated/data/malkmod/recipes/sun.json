@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:glass_bottle"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "malkmod:yellow_phosphor_block"
+    },
+    "S": {
+      "item": "malkmod:copper_wire"
+    }
+  },
+  "pattern": [
+    " N ",
+    "PSP",
+    " B "
+  ],
+  "result": {
+    "item": "malkmod:sun"
+  },
+  "show_notification": true
+}

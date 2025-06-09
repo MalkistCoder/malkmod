@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "malkmod:yellow_phosphor_block"
+    }
+  },
+  "pattern": [
+    "GPG",
+    "PFP",
+    "GPG"
+  ],
+  "result": {
+    "item": "malkmod:phosphor_feather"
+  },
+  "show_notification": true
+}

@@ -1,4 +1,4 @@
-// 1.20.1	2025-06-09T18:03:38.994766638	MalkMod/Model Definitions
+// 1.20.1	2025-06-09T18:15:52.848578306	MalkMod/Model Definitions
 8d62be622861d5c7a08aed27af7d85eeaf132932 assets/malkmod/models/block/glowwood_door_top_left.json
 b65a8caded8cc5089504c8beab17c67ca407c8c1 assets/malkmod/blockstates/yellow_phosphor_block.json
 98623e24ab876caff570ae64f991ce43f1084f76 assets/malkmod/models/item/yellow_phosphor_ore.json
@@ -16,8 +16,8 @@ a50f435320ee22b85a1c803e3f341a3918e188a0 assets/malkmod/models/item/glowwood_sla
 224b53a5626fe609568be47bcf9ab87077314288 assets/malkmod/models/item/phosphor_amber.json
 d68fc6850b266eee1c9ba1e2019c575c40b8ee45 assets/malkmod/models/block/glowwood_door_top_right.json
 55da7753ec22858b7af50c7cad86906ba2429669 assets/malkmod/models/block/yellow_phosphor_block.json
-f96abde4f5d588a1040635c4a8aa46732da60ea9 assets/malkmod/models/item/ruby.json
 93d990ff09fb62bea76b99cda83528f2b282ee9f assets/malkmod/models/block/glowwood_stairs.json
+f96abde4f5d588a1040635c4a8aa46732da60ea9 assets/malkmod/models/item/ruby.json
 d8ea87ff26a86fd97f5e753d633cb4d9a340f008 assets/malkmod/models/block/glowwood_fence_inventory.json
 52461e126cb576c70dcdfc4c34fca3b997e819b7 assets/malkmod/models/item/ruby_block.json
 d9a8b177d8d95dad29bbbc76f2931bc1ba6633d8 assets/malkmod/models/block/glowwood_log.json
@@ -27,9 +27,9 @@ a18f3227c47d2284d99d56b3ce9867b6e446ad65 assets/malkmod/models/block/glowwood_do
 e99377f0a64dcf6118a3818d389eee8d938f68df assets/malkmod/models/item/glowwood_fence_gate.json
 762c3c894978d65a5cdfb4d86262be2847050d4c assets/malkmod/blockstates/ruby_block.json
 e075d0cefe23836e6b46fb185e1146d6d657671d assets/malkmod/models/block/glowwood_fence_post.json
+2e0b8d7e6b6439a4f62e65056b2f1a345802200d assets/malkmod/blockstates/glowwood_fence_gate.json
 3dd9a3fc7f3d67344e52e6f9d9f041e2d9977869 assets/malkmod/models/item/phosphor_die.json
 9986555c4e4ba2f5d3a9eb2a08f7b86d2e62443c assets/malkmod/models/block/glowwood_pressure_plate_down.json
-2e0b8d7e6b6439a4f62e65056b2f1a345802200d assets/malkmod/blockstates/glowwood_fence_gate.json
 f6b7bc149a2b81648e38a0d031440c1de0eea077 assets/malkmod/models/item/yellow_phosphor_block.json
 a092d20e5645e78f790c50fd034eaa329f1fce91 assets/malkmod/models/block/glowwood_fence_gate_wall_open.json
 87ccbe4f354355326e6e5de2b2309fe22356b1ce assets/malkmod/models/block/glowwood_slab.json

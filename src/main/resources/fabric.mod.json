@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "malkmod",
-	"version": "1.0.0",
+	"version": "${version}",
 	"name": "MalkMod",
 	"description": "if one, then only shot!",
 	"authors": [
